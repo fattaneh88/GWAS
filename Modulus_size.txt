@@ -1,0 +1,66 @@
+HWE:
+N = 100
+Modulus size: 98
+A and C = 16; B = 15; M2 = 8; M1 = 16; X1 = 49; X2 = 16; S = 49; output = 1; threshold = 4
+
+N = 200
+Modulus size: 104
+A and C = 18; B = 17; M2 = 9; M1 = 18; X1 = 55; X2 = 18; S = 55; output = 1; threshold = 4
+
+N = 400
+Modulus size: 110
+A and C = 20; B = 19; M2 = 10; M1 = 20; X1 = 61; X2 = 20; S = 61; output = 1; threshold = 4
+
+N = 800
+Modulus size: 116
+A and C = 22; B = 21; M2 = 11; M1 = 22; X1 = 67; X2 = 22; S = 67; output = 1; threshold = 4
+*************************
+
+LD:
+N = 100
+Modulus size: 89
+A = 15; B, C, and D = 8; M1 = 40; output = 1; threshold = 4
+
+N = 200
+Modulus size: 94
+A = 17; B, C, and D = 9; M1 = 45, output = 1; threshold = 4
+
+N = 400
+Modulus size: 99
+A = 19; B, C, and D = 10; M1 = 50; output = 1; threshold = 4
+
+N = 800
+Modulus size: 104
+A = 21; B, C, and D = 11; M1 = 55; output = 1; threshold = 4
+*************************
+
+CATT:
+N = 100
+Modulus size: 86
+T = 37; temp1 = 18; temp2 = 9; B, C, E, and F = 7; C2 and C3 = 8; w = 2; sp1, sp2, S = 37; output = 1; threshold = 4
+
+N = 200
+Modulus size: 91
+T = 42; temp1 = 20; temp2 = 10; B, C, E, and F = 8; C2 and C3 = 9; w = 2; sp1, sp2, S = 42; output = 1; threshold = 4
+
+N = 400
+Modulus size: 96
+T = 47; temp1 = 22; temp2 = 11; B, C, E, and F = 9; C2 and C3 = 10; w = 2; sp1, sp2, S = 47; output = 1; threshold = 4
+
+N = 800
+Modulus size: 101
+T = 52; temp1 = 24; temp2 = 12; B, C, E, and F = 10; C2 and C3 = 11; w = 2; sp1, sp2, S = 52; output = 1; threshold = 4
+*************************
+
+Fisher test:
+N = 50
+Modulus size: 67
+j = 8; j1 and j2 = 7; B and E = 6; A and D = 5; temp1 = 8; temp2 = 7; templ = 11; S = 18, output = 1; threshold = 4
+
+N = 100
+Modulus size: 68
+j = 9; j1 and j2 = 8; B and E = 7; A and D = 6; temp1 = 9; temp2 = 8; templ = 12; S = 19, output = 1; threshold = 4
+
+N = 200
+Modulus size: 69
+j = 10; j1 and j2 = 9; B and E = 8; A and D = 7; temp1 = 10; temp2 = 9; templ = 12; S = 20, output = 1; threshold = 4
