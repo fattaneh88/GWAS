@@ -1,2 +1,6 @@
 # GWAS
-In this project, we focused on Genome-wide association studies (GWAS). GWAS are currently the most powerful tool for assessing associations between common single-nucleotide polymorphisms (SNPs) and common genetic diseases such as auto-immune disease, heart disease, diabetes, and others. Because genomic data is very sensitive due to the possibility of revealing information not only about the data owner but also about his or her relatives, protection of genomic data is highly recommended. In the project, we put forward a secure realization of a suite of statistical tests used in both genome-wide association and linkage studies. The optimizations are tailored toward the secret sharing setting which is suitable for both secure multi-party computation as well as secure computation outsourcing to multiple servers. The goal is to aid adoption of secure computation techniques for the purposes of genome analysis by covering the chain of statistical tests used in both GWAS and GWLS. 
+Here is all the implementations related to the following publication:
+
+A. Shahbazi, F. Bayatbabolghani, M. Blanton. Private Computation with Genomic Data for Genome-Wide Association and Linkage Studies, to International Workshop on Genome Privacy and Security (GenoPri'16), Chicago, November 2016
+
+Our implementations were built in C/C++, and we used PICCO library as an external library. You can find all information about proposed modulus sizes in Modulus_size.txt.
